@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah Hammami</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <h3 align="center">A passionate Software Engineer Student from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarahhamami&label=Profile%20views&color=b40e77&style=flat" alt="ASUNA" /> </p>
