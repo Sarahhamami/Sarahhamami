@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarah Hammami</h1>
 <p align="center">
-  <img src="https://example.com/my-animation.gif" alt="cute wave" width="200"/>
+  <img src="https://media.tenor.com/2Dl5l4wKpSoAAAAC/hi-wave.gif" alt="cute wave" width="200"/>
 </p>
+
 
 </p>
 <h3 align="center">A passionate Software Engineer Student from Tunisia</h3>
