@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sarah Hammami</h1>
-<h3 align="center">A passionate Future Software Engineer from Tunisia</h3>
+<h3 align="center">A passionate Software Engineer Student from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarahhamami&label=Profile%20views&color=b40e77&style=flat" alt="ASUNA" /> </p>
 
 <!-- - 🔭 I’m currently working with  on  [name](lien) And [name](lien) -->
 
-- 🌱 I’m currently learning **MVEN STACK**
-
+- 🌱 I’m currently Working on Spring Boot + Angular projects and a machine learning enthusiast
 - 📫 How to reach me **sarahhammami15@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
