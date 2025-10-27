@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarah Hammami</h1>
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhi-wave-gif-hi-wave-hello-discover-share-gifs--184506915974763393%2F&psig=AOvVaw1jsot9ZW4xsMVbVelm2cc_&ust=1761612830798000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiK7YSjw5ADFQAAAAAdAAAAABAo"/>
+  <img src="https://example.com/my-animation.gif" alt="cute wave" width="200"/>
+</p>
+
 </p>
 <h3 align="center">A passionate Software Engineer Student from Tunisia</h3>
 
